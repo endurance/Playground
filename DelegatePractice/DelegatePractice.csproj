@@ -36,7 +36,7 @@
     <UseVSHostingProcess>false</UseVSHostingProcess>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Practice.Delegates.CarTester</StartupObject>
+    <StartupObject>Practice.Delegates.TestClass</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,7 +48,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Delegates\Program.cs" />
+    <Compile Include="Delegates\CarExample.cs" />
+    <Compile Include="Delegates\SimpleDelegates.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
