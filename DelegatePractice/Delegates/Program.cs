@@ -4,7 +4,6 @@ using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ByteC1 = System.Collections.ObjectModel.Collection<byte>;
 /// Sending Object State Notifications using Delegates
 /// Clearly, the previous SimpleDelegate example was intended to be purely illustrative in nature, given that
 /// there would be no compelling reason to define a delegate simply to add two numbers! To provide a more
